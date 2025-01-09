@@ -5,6 +5,16 @@
 ## Type safety & pep8
 Code conforme à PEP 8 et 100% statiquement typé.
 
+## build image docker
+```bash
+ docker build -t secu:latest .
+```
+
+## Execution du programme (Docker)
+```
+docker run -it secu:latest python3 main.py
+```
+
 ## Installation des modules
 ```bash
 python3 -m pip install -r requirements.txt
