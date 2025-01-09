@@ -2,6 +2,11 @@
 
 # Projet Secu Houtrique Thomas
 
+## Installation des modules
+```bash
+python3 -m pip install -r requirements.txt
+```
+
 ## Éxecution du script
 ```bash
 python3 main.py
