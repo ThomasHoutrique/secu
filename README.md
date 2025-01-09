@@ -2,17 +2,20 @@
 
 # Projet Secu Houtrique Thomas
 
+## Type safety & pep8
+Code conforme à PEP 8 et 100% statiquement typé.
+
 ## Installation des modules
 ```bash
 python3 -m pip install -r requirements.txt
 ```
 
-## Éxecution du script
+### Éxecution du script
 ```bash
 python3 main.py
 ```
 
-## Unittest
+### Unittest
 ```bash
 python3 test_unit.py
 ```
